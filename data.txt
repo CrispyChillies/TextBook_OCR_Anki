@@ -68,7 +68,7 @@ D. Mặt phăng đứng dọc giữa
 trái. Vậy hình vẽ này dựa trên mặt cắt nào sau đây? 
 A. Mặt cắt ngang hoặc mặt cắt đứng dọc 
 B. Mặt cắt ngang hoặc mặt cắt đứng dọc giữa 
-Œ. Mặt cắt ngang hoặc mặt cắt đứng ngang 
+C. Mặt cắt ngang hoặc mặt cắt đứng ngang 
 D. Mặt cắt đứng ngang hoặc mặt cắt đứng dọc giữa 
 15. Mặt gan tay còn được gọi là mặt trước của bản tay. Người ta gọi như vậy là 
 dựa vào mặt phăng nào? 
@@ -85,7 +85,7 @@ D. Được hình thành từ nhiêu hệ cơ quan
 17. Đơn vị sống nhỏ nhật của cơ thê là gì? 
 A. Cá thể 
 B. Tế bào 
-Œ. Phân tử 
+C. Phân tử 
 D. Bảo quan 
 18. Tên gọi “cơ gâp ngón cái dài” được đặt dựa vào 
 A. Chức năng của cơ 
@@ -101,13 +101,13 @@ D. Chức năng vả vị trí của cơ
 hai câu trúc? 
 A. Trước — sau và trong — ngoài 
 B. Trên — dưới và trước — sau 
-Œ. Trên — dưới 
+C. Trên — dưới 
 D. Trong —- ngoài 
 21. Trên thiết đô cắt đứng ngang, ta có thê xác định mỗi liên quan nào sau đây 
 giữa hai câu trúc? 
 A. Trước — sau vả trong — ngoài 
 B. Trên —- dưới và trong — ngoài 
-Œ. Trên — dưới 
+C. Trên — dưới 
 D. Trong — ngoài 
 22. Chức năng nào sau đây không phải là chức năng của xương? 
 A. Bảo vệ 
@@ -115,14 +115,14 @@ B. Dự trữ khoáng chất
 C. Điều hòa huyết áp 
 D. Tạo mâu 
 23. Xương nào sau đây thuộc nhóm xương phụ? 
-Á. Xương vai 
+A. Xương vai 
 B. Xương ức 
-Œ. Xương sườn 
+C. Xương sườn 
 D. Xương móng 
 24. Vê hình dạng, xương nào sau đây thuộc nhóm xương đẹt? 
 A. Các xương ở cô tay 
 B. Xương sườn 
-Œ. Xương bàn chân 
+C. Xương bàn chân 
 D. Xương ngón chân 
 25.Xương nào sau đây có vai trò làm giảm lực ma sát của các gân cơ? 
 A. Xương bản 
@@ -142,7 +142,7 @@ D. Có vai trò hập thu lực tác động lên xương
 28. Nhìn chung, vị trí nào sau đây thường là nơi bám của các gân cơ? 
 A. Chỏm 
 B. Lôi câu 
-Œ. Mào 
+C. Mào 
 D. Mỏm trên lôi cầu 
 29. Hình dạng của diện khớp phù hợp với 
 A. Câu tạo của khớp 
@@ -182,17 +182,17 @@ D.. Khi đến tuôi trường thành
 36. Sụn khớp là loại sụn nào? 
 À. Nụn trone 
 B. Sun chun 
-Œ. Sụn xơ 
+C. Sụn xơ 
 D. Sụn tiếp hợp 
 37. Ở người trường thành, thành phần chủ yếu của tủy sương trong ông tùy là gì? 
 A. Tế bào máu 
 B. Chất khoảng 
-Œ. Mỡ 
+C. Mỡ 
 D. TẾ bào tạo xương 
 38. Đặc tỉnh nào sau đây không đủng với màng xương ngoài của xương đài? 
 À. Phủ hầu hết trên bề mặt xương 
 B. Không có mạch máu 
-Œ. Có chức năng giúp xương gầy mau lành 
+C. Có chức năng giúp xương gầy mau lành 
 D. Còn là nơi bám của gân cơ, đây chẳng 
 39, Hiện tượng nào sau đây xảy ra trước nhẤt trong quả trình liền xương? 
 A. Hình thành các bè xương xếp 
@@ -202,7 +202,7 @@ D. Hấp thụ các tế bào chết vùng xương gầy
 4í. Phần ngoài của vỏ xương được cập máu bởi động mạch nào? 
 A. Động mạch màng Xương ngoài 
 B. Động mạch nuôi xương 
-Œ. Động mạch hành xương 
+C. Động mạch hành xương 
 D. Động mạch đầu xương 
 41. Sụn tiêp hợp là lớp sụn là lớp sụn trong năm ở đâu? 
 A. Đâu các xương dài, nơi khớp với các xương khác 
@@ -247,7 +247,7 @@ B. Khớp xoay
 C. Khớp sụn 
 D.. Khớp dạng dây chẳng 
 49. Chọn lựa nào sau đây phù hợp nhất đôi với khớp giữa thân của các đốt sống? 
-Á. Khớp động 
+A. Khớp động 
 B. Khớp xoay 
 C. Khớp sụn sợi 
 D. Khớp sợi 
@@ -265,17 +265,17 @@ D. Môi và lưỡi
 52. Cơ ở vùng nào sau đây thường được chỉ phôi bởi nhiều dây thần kinh? 
 A. Cơ ở mặt 
 B. Cơ chi trên 
-Œ. Cơ chi dưới 
+C. Cơ chi dưới 
 D. Cơ thành bụng 
 53. Mạc treo gân có bản chất là gì? 
 A. Mạc sâu 
 B. Mạc nông 
-Œ. Bao sợi của gân 
+C. Bao sợi của gân 
 D. Bao hoạt dịch của gân 
 s4. Vách gian cơ là một câu trúc thuộc? 
 A. Mạc nông 
 B. Mạc bọc cơ 
-Œ. Mạc sâu 
+C. Mạc sâu 
 D. Mạc hoạt dịch 
 55, Tên gỌI cơ răng trước dựa vào đâu? 
 A. VỊ trí của cơ 
@@ -300,7 +300,7 @@ D. 2 động mạch, 2 tĩnh mạch, 1 thân kinh
 s9, Sự phân bô thân kinh cho cơ phụ thuộc vào 
 A. VỊ trí của cơ 
 B. Hình dạng của cơ 
-Œ. Chức năng của cơ 
+C. Chức năng của cơ 
 D. Câu trúc của cơ 
 60. Cấu trúc nào sau đây nằm giữa cơ và lớp mỡ dưới da 
 A. Mạc nông 
@@ -330,12 +330,12 @@ D. Lớp ngoài và lớp trong
 65. Khi ở tư thế đứng, yêu tô nào sau đây giúp máu tĩnh mạch từ chi dưới đổ về 
 A. Trương lực cơ chi dưới 
 B. Trọng lực của cơ thê 
-Œ. Sức hút của tim 
+C. Sức hút của tim 
 D. Áp lực âm của ỗ bụng 
 66. Khi lây máu xét nghiệm, nơi nào sau đây có nông độ CO; trong máu thấp nhất? 
 A. Tĩnh mạch 
 B. Tiêu nh mạch 
-Œ. Mao mạch 
+C. Mao mạch 
 D. Mạch bạch huyết 
 67. Cơ quan nào sau đây chứa mao mạch dạng xoang, có các hô chứa máu? 
 A. Ruột 
@@ -401,22 +401,22 @@ D. Mạc riêng
 ngực, hình ảnh khối bướu nằm ở 
 A. Bên trên 
 B. Bên dưới 
-Œ. Bên phải 
+C. Bên phải 
 D. Bên trái 
 80. Mạc nối lớn không có đặc điểm nào sau đây? 
 A. Dự trữ năng lượng 
 B. Cách nhiệt 
-Œ. Bảo vệ 
+C. Bảo vệ 
 D. Có thể bị xoăn 
 81. Mặt ngoài của dạ dày được bao bọc bởi 
 A. Niêm mạc 
 B. Thanh mạc 
-Œ. Phúc mạc thành 
+C. Phúc mạc thành 
 D. Lá riêng 
 82. Bên trong đường hô hập được lót bởi 
 A. Thanh mạc 
 B. Trung bi 
-Œ. Niêm mạc 
+C. Niêm mạc 
 D. Nội bì 
 | 83. .. „. Hài v9, là mảng thanh mạc? 
 A. Phúc mạc thành 
@@ -426,11 +426,11 @@ C. Màng trong tim
 D. Màng phôi thành 
 A. Trung mô 
 B. Ngoại mô 
-Œ. Nội mô 
+C. Nội mô 
 D. Các khoang cơ thê 
 A. Ngoại bi 
 B. Trung bi 
-Œ. Nội bi 
+C. Nội bi 
 D. Ngoại bì và trung bì 
 86. Điêu nào sau đây không đúng với thượng bì? 
 A. Có thân kinh chỉ phôi 
@@ -440,7 +440,7 @@ D. Có thê biệt hóa thành thượng bì tuyến
 87. Câu trúc nào sau đây thuộc mô liên kết? 
 A. Mô lỏng lẻo 
 B. Mõ mỡ 
-Œ. Mô lưới 
+C. Mô lưới 
 D. Cả ba loại trên 
 88. Màng thanh mạc nảo sau đây không có lớp thượng bì 
 A. Màng phôi 
@@ -460,12 +460,12 @@ D. Mô thân kinh
 91. Mô làm dạ dày co thắt đề tiêu hóa thức ăn là 
 A. Mô biêu mô 
 B. Mô liên kết 
-Œ. Mô cơ 
+C. Mô cơ 
 D. Mô thân kinh 
 92. Mô có chức năng nâng đỡ hoặc vận chuyên trong cơ thể là 
 A. Mô biêu mô 
 B. Mô liên kêt 
-Œ. Mô cơ 
+C. Mô cơ 
 D. Mô thân kinh 
 93. Hai hệ cơ quan điều tiết chức năng của cơ thê băng xung động thần kinh và 
 kích thích tô (hormone) là: 
@@ -481,7 +481,7 @@ D. Hệ cơ và hệ nội tiệt
 95. Cấu trúc nào sau đây không phải là tô chức cơ quan? 
 A. Động mạch 
 B. Gan 
-Œ. Máu 
+C. Máu 
 D. Thận 
 96. Tuyến nào sau đây là tuyên ngoại tiết? 
 A. Tuyên nước bọt 
@@ -511,7 +511,7 @@ D. Mô liên kết chun
 101. Cơ tạo ra nhu động ruột là 
 A. Cơ bâm xương 
 B. Cơ vận động tự ý 
-Œ. Cơ vân 
+C. Cơ vân 
 D. Cơ trơn 
 102. Câu nào nào sau sai khi nói vê tuyên? 
 A. Tuyên nội tiệt không có ông tuyến 

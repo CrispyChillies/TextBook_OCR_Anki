@@ -5,6 +5,7 @@ import cv2
 import pytesseract
 import json
 from pprint import pprint
+import re
 
 config = "--oem 1 --psm 7 -l vie"
 
@@ -52,6 +53,7 @@ for i, page in enumerate(pages):
         text = text.replace("\n", " ")
         text = text.replace("ŒC.", "C.")
         text = text.replace("Œ.", "C.")
+        text = text.replace("Á.", "A.")
         data.append(text)
 
 
@@ -60,24 +62,37 @@ with open("data.txt", "w") as file:
         file.write(line + "\n")
 
 questions = []
-
 i = 0
-while i < len(data):
-    question_text = data[i].strip()
-    if i + 4 <= len(data):
-        options = data[i + 1 : i + 5]
-        struct = {
-            "Question": question_text,
-            "A": options[0].strip(),
-            "B": options[1].strip(),
-            "C": options[2].strip(),
-            "D": options[3].strip(),
-        }
-        questions.append(struct)
-        i += 5
-    else:
-        break
 
+while i < len(data):
+    line = data[i].strip()
+
+    if re.match(r"^\d+\.", line):
+        question_lines = [line]
+        i += 1
+
+        # Gom các dòng tiếp theo cho đến khi gặp "A."
+        while i < len(data) and not data[i].strip().startswith("A."):
+            question_lines.append(data[i].strip())
+            i += 1
+
+        question_text = " ".join(question_lines)
+
+        # Lấy 4 đáp án
+        options = {}
+        for opt in ["A.", "B.", "C.", "D."]:
+            if i < len(data) and data[i].strip().startswith(opt):
+                options[opt[0]] = data[i].strip()
+                i += 1
+            else:
+                options[opt[0]] = ""  # phòng trường hợp thiếu đáp án
+
+        # Lưu vào list
+        questions.append({"Question": question_text, **options})
+    else:
+        i += 1  # bỏ qua dòng không phải câu hỏi
+
+# Xuất ra file JSON
 with open("questions.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, ensure_ascii=False, indent=2)
 
