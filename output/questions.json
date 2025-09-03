@@ -1,0 +1,611 @@
+[
+  {
+    "Question": "1. Giải phẫu học là môn học nghiên cứu vê các vẫn đề sau, ngoại trừ:",
+    "A": "A. Câu tạo của cơ thê",
+    "B": "B. Liên quan giữa các cơ quan trong cơ thể",
+    "C": "C. Liên quan giữa cơ thê với môi trường",
+    "D": "D. Sự biến đôi của cơ thê khi bị bệnh"
+  },
+  {
+    "Question": "2. Ngày nay, phương tiện tốt nhất đề học Giải phẫu là:",
+    "A": "A. Xác",
+    "B": "B. Phần mêm vi tính",
+    "C": "C. Phim video",
+    "D": "D. Mô hình"
+  },
+  {
+    "Question": "3. Mặt phăng đứng dọc giữa",
+    "A": "A. Song song với mặt phăng trán",
+    "B": "B. Chia cơ thê thành hai phân trước và sau",
+    "C": "C. Chia cơ thể thành hai phân phải và trái",
+    "D": "D. Chia cơ thê thành hai nửa phải và trái tương đương"
+  },
+  {
+    "Question": "4. Trong giải phẫu, đề xác định vị trí “frong — ngoài ” ta căn cứ vào",
+    "A": "A. Mặt phăng ngang",
+    "B": "B. Mặt phăng đứng ngang",
+    "C": "C. Mặt phăng đứng dọc",
+    "D": "D. Mặt phẳng đứng dọc giữa"
+  },
+  {
+    "Question": "5. Mặt phăng đứng ngang là mặt phăng",
+    "A": "A. Chia cơ thể thành hai phân trước và sau",
+    "B": "B. Chia cơ thê thành hai phân trên và dưới",
+    "C": "C. Song song với mặt phăng đứng dọc",
+    "D": "D. Song song với mặt phăng ngang"
+  },
+  {
+    "Question": "6. Đặc điểm nào sau đây không đúng với mặt phăng ngang?",
+    "A": "A. Thẳng góc với mặt phăng đứng dọc",
+    "B": "B. Song song với mặt đât",
+    "C": "C. Song song với mặt phăng đứng ngang",
+    "D": "D. Chia cơ thể thành hai phân trên và dưới"
+  },
+  {
+    "Question": "7. Đặc điểm nào sau đây không đúng với mặt phẳng đứng dọc giữa?",
+    "A": "A. Đi qua đường giữa cơ thê",
+    "B": "B. Thẳng góc với mặt phăng đứng ngang",
+    "C": "C. Chia cơ thê thành hai nửa phải và trái",
+    "D": "D. Có nhiêu mặt phăng đứng dọc giữa song song nhau"
+  },
+  {
+    "Question": "8. Động tác nào sau đây đưa một chỉ ra xa đường giữa cơ thê?",
+    "A": "A. Sắp",
+    "B": "B. Ngửa",
+    "C": "",
+    "D": ""
+  },
+  {
+    "Question": "9. Người đưa ra quan điểm học Giải phẫu cân phải mô xác người là ai2",
+    "A": "A. Hippocrates",
+    "B": "B. Andreas Vesalius",
+    "C": "C. Henry Gray",
+    "D": ""
+  },
+  {
+    "Question": "10. Trong một bài Giải phẫu, người ta mô tả các lớp cơ từ nông vào sâu và rmnÔ tả mạch máu, thân kinh đi trong các lớp cơ này. Đây là cách mô tả của?",
+    "A": "A.. Giải phẫu học hệ thông",
+    "B": "B. Giải phẫu học định khu",
+    "C": "C. Giải phẫu học cắt ngang",
+    "D": "D. Giải phẫu học lâm sàng"
+  },
+  {
+    "Question": "11. Tên gọi “hàm trên, hàm dưới” trong giải phẫu là dựa vào?",
+    "A": "A. Mặt phăng ngang",
+    "B": "B. Mặt phăng đứng ngang",
+    "C": "C. Mặt phăng đứng đọc",
+    "D": "D. Mặt phăng đứng dọc giữa"
+  },
+  {
+    "Question": "12. Mặt phăng trán là cách gọi khác của mặt phẳng nào?",
+    "A": "A. Mặt phăng ngang",
+    "B": "B. Mặt phăng đứng ngang",
+    "C": "C. Mặt phăng đứng dọc",
+    "D": "D. Mặt phăng đứng dọc giữa"
+  },
+  {
+    "Question": "13. Khi mô tả vị trí của hai xương căng lay, người ta nói rằng xương trụ ở trong xương quay. Điều này dựa vào mặt phẳng nào?",
+    "A": "A. Mặt phăng ngang",
+    "B": "B. Mặt phăng đứng ngang",
+    "C": "C. Mặt phẳng đứng dọc",
+    "D": "D. Mặt phăng đứng dọc giữa"
+  },
+  {
+    "Question": "14. Trên một hình vẽ giải phẫu cho thấy tim ở giữa, hai bên là phôi phải và phổi trái. Vậy hình vẽ này dựa trên mặt cắt nào sau đây?",
+    "A": "A. Mặt cắt ngang hoặc mặt cắt đứng dọc",
+    "B": "B. Mặt cắt ngang hoặc mặt cắt đứng dọc giữa",
+    "C": "C. Mặt cắt ngang hoặc mặt cắt đứng ngang",
+    "D": "D. Mặt cắt đứng ngang hoặc mặt cắt đứng dọc giữa"
+  },
+  {
+    "Question": "15. Mặt gan tay còn được gọi là mặt trước của bản tay. Người ta gọi như vậy là dựa vào mặt phăng nào?",
+    "A": "A. Mặt phăng ngang",
+    "B": "B. Mặt phăng đứng ngang",
+    "C": "C. Mặt phăng đứng dọc",
+    "D": "D. Mặt phẳng đứng dọc giữa"
+  },
+  {
+    "Question": "16. Trong các mức độ tô chức của cơ thê, cá thê là mức độ tổ chức cao nhất. Điểm đặc trưng của cá thể là gì?",
+    "A": "A. Tự trao đôi chất",
+    "B": "B. Tự hô hâp được",
+    "C": "C. Hoạt động độc lập với cá thê khác",
+    "D": "D. Được hình thành từ nhiêu hệ cơ quan"
+  },
+  {
+    "Question": "17. Đơn vị sống nhỏ nhật của cơ thê là gì?",
+    "A": "A. Cá thể",
+    "B": "B. Tế bào",
+    "C": "C. Phân tử",
+    "D": "D. Bảo quan"
+  },
+  {
+    "Question": "18. Tên gọi “cơ gâp ngón cái dài” được đặt dựa vào",
+    "A": "A. Chức năng của cơ",
+    "B": "B. Hình dạng của cơ",
+    "C": "C. Chức năng và vị trí của cơ",
+    "D": "D. Chức năng và hình dạng của cơ"
+  },
+  {
+    "Question": "19. Tên gọi “cơ răng sau trên” là dựa vào?",
+    "A": "A. Chức năng của cơ",
+    "B": "B. Hình dạng của cơ",
+    "C": "C. Hình dạng và vị trí của cơ",
+    "D": "D. Chức năng vả vị trí của cơ"
+  },
+  {
+    "Question": "20. Trên thiệt đồ cắt ngang, ta có thê xác định môi liên quan nào sau đây giữa hai câu trúc?",
+    "A": "A. Trước — sau và trong — ngoài",
+    "B": "B. Trên — dưới và trước — sau",
+    "C": "C. Trên — dưới",
+    "D": "D. Trong —- ngoài"
+  },
+  {
+    "Question": "21. Trên thiết đô cắt đứng ngang, ta có thê xác định mỗi liên quan nào sau đây giữa hai câu trúc?",
+    "A": "A. Trước — sau vả trong — ngoài",
+    "B": "B. Trên —- dưới và trong — ngoài",
+    "C": "C. Trên — dưới",
+    "D": "D. Trong — ngoài"
+  },
+  {
+    "Question": "22. Chức năng nào sau đây không phải là chức năng của xương?",
+    "A": "A. Bảo vệ",
+    "B": "B. Dự trữ khoáng chất",
+    "C": "C. Điều hòa huyết áp",
+    "D": "D. Tạo mâu"
+  },
+  {
+    "Question": "23. Xương nào sau đây thuộc nhóm xương phụ?",
+    "A": "A. Xương vai",
+    "B": "B. Xương ức",
+    "C": "C. Xương sườn",
+    "D": "D. Xương móng"
+  },
+  {
+    "Question": "24. Vê hình dạng, xương nào sau đây thuộc nhóm xương đẹt?",
+    "A": "A. Các xương ở cô tay",
+    "B": "B. Xương sườn",
+    "C": "C. Xương bàn chân",
+    "D": "D. Xương ngón chân"
+  },
+  {
+    "Question": "25.Xương nào sau đây có vai trò làm giảm lực ma sát của các gân cơ?",
+    "A": "A. Xương bản",
+    "B": "B. Xương đốt ngón",
+    "C": "C. Xương vừng",
+    "D": "D. Xương phụ"
+  },
+  {
+    "Question": "26. Vị trí nào sao đây là nơi tập trung nhiêu mô xương đặc?",
+    "A": "A. Bờ các xương đẹt",
+    "B": "B. Trung tâm các xương dẹt",
+    "C": "C. Đâu các xương dài",
+    "D": "D. Thân các xương dài"
+  },
+  {
+    "Question": "27. Đặc tính nào sau đây không thuộc về Xương xốp?",
+    "A": "A. Tập trung ở xương đẹt, đầu xương dài",
+    "B": "B. Tủy của xương xốp là loại tủy đỏ",
+    "C": "C. Không hiện diện ở thân xương dài",
+    "D": "D. Có vai trò hập thu lực tác động lên xương"
+  },
+  {
+    "Question": "28. Nhìn chung, vị trí nào sau đây thường là nơi bám của các gân cơ?",
+    "A": "A. Chỏm",
+    "B": "B. Lôi câu",
+    "C": "C. Mào",
+    "D": "D. Mỏm trên lôi cầu"
+  },
+  {
+    "Question": "29. Hình dạng của diện khớp phù hợp với",
+    "A": "A. Câu tạo của khớp",
+    "B": "B. Cử động của khớp",
+    "C": "C. VỊ trí của khớp",
+    "D": "D. Kích thước của khớp"
+  },
+  {
+    "Question": "30. Đặc tính nào sau đây đúng với sụn?",
+    "A": "A. Không có mảng sụn",
+    "B": "B. Không có mạch mâu riêng",
+    "C": "C. Dễ lành sau chân thương",
+    "D": "D. Thành phân chủ yêu là sợi collagen"
+  },
+  {
+    "Question": "31. Sụn chun hiện diện ở câu trúc nào sau đây?",
+    "A": "A. Khi quản",
+    "B": "B. Loa tai",
+    "C": "C. Đĩa gian đốt sông",
+    "D": "D. Chỏm xương đùi"
+  },
+  {
+    "Question": "32. Ở thân xương dài, thành phân chính của vỏ xương là?",
+    "A": "A. Mô xương đặc",
+    "B": "B. Mô xương xôp",
+    "C": "C. Màng Xương",
+    "D": "D. Tô chức sợi"
+  },
+  {
+    "Question": "33. Trên xương dài, hành xương là vùng ở vị trí nào sau đây?",
+    "A": "A. Trên bề mặt đâu xương",
+    "B": "B. Giữa đầu xương và sụn khớp",
+    "C": "C. Mặt trong ông tủy",
+    "D": "D. Giữa đầu xương và thân xương"
+  },
+  {
+    "Question": "36. Sụn khớp là loại sụn nào? À. Nụn trone B. Sun chun C. Sụn xơ D. Sụn tiếp hợp 37. Ở người trường thành, thành phần chủ yếu của tủy sương trong ông tùy là gì?",
+    "A": "A. Tế bào máu",
+    "B": "B. Chất khoảng",
+    "C": "C. Mỡ",
+    "D": "D. TẾ bào tạo xương"
+  },
+  {
+    "Question": "38. Đặc tỉnh nào sau đây không đủng với màng xương ngoài của xương đài? À. Phủ hầu hết trên bề mặt xương B. Không có mạch máu C. Có chức năng giúp xương gầy mau lành D. Còn là nơi bám của gân cơ, đây chẳng 39, Hiện tượng nào sau đây xảy ra trước nhẤt trong quả trình liền xương?",
+    "A": "A. Hình thành các bè xương xếp",
+    "B": "B. Hình thành các sợi collagen",
+    "C": "C. Chảy máu và hình thành khối máu tụ",
+    "D": "D. Hấp thụ các tế bào chết vùng xương gầy"
+  },
+  {
+    "Question": "41. Sụn tiêp hợp là lớp sụn là lớp sụn trong năm ở đâu?",
+    "A": "A. Đâu các xương dài, nơi khớp với các xương khác",
+    "B": "B. Hành xương dài, nơi tiếp giáp giữa đâu xương và thân xương",
+    "C": "C. Dưới màng ngoài xương của thân xương dài",
+    "D": "D. Trên bề mặt của ông tủy của thân xưong dài"
+  },
+  {
+    "Question": "42. Loại khớp nào sau đây hiện diện nhiều nhât trong cơ thể?",
+    "A": "A. Khớp hoạt dịch",
+    "B": "B. Khớp dây chẳng",
+    "C": "C. Khớp sụn",
+    "D": "D. Khới màng gian cốt"
+  },
+  {
+    "Question": "43. Khớp nào sau đây không có khả năng cử động?",
+    "A": "A. Khớp dây chăng",
+    "B": "B. Khớp đường râp",
+    "C": "C. Khớp sụn",
+    "D": "D. Khớp hoạt dịch"
+  },
+  {
+    "Question": "44. Chọn lựa nào sau đây phù hợp nhất đôi với khớp giữa các xương cô tay?",
+    "A": "A. Khớp động",
+    "B": "B. Khớp xoay",
+    "C": "C. Khớp sụn",
+    "D": "D. Khớp yên ngựa"
+  },
+  {
+    "Question": "45. Chọn lựa nào sau đây phù hợp nhất đôi với khớp giữa xương thuyên và đầu dưới xương quay?",
+    "A": "A. Khớp xoay",
+    "B": "B. Khớp sụn",
+    "C": "C. Khớp sợi",
+    "D": "D. Khớp lôi câu"
+  },
+  {
+    "Question": "46. Chọn lựa nào sau đây phù hợp nhật đối với khớp giữa xương thang và xương bàn I ở bản tay?",
+    "A": "A. Khớp phăng",
+    "B": "B. Khớp xoay",
+    "C": "C. Khớp yên ngựa",
+    "D": "D. Khớp bán động"
+  },
+  {
+    "Question": "47. Chọn lựa nào sau đây phù hợp nhất đỗi với khớp mu?",
+    "A": "A. Khớp động",
+    "B": "B. Khớp xoay",
+    "C": "C. Khớp sụn SỢI",
+    "D": ""
+  },
+  {
+    "Question": "48. Chọn lựa nào sau đây phù hợp nhất đối với khớp chày mác đưới?",
+    "A": "A. Khớp bất động",
+    "B": "B. Khớp xoay",
+    "C": "C. Khớp sụn",
+    "D": "D.. Khớp dạng dây chẳng"
+  },
+  {
+    "Question": "49. Chọn lựa nào sau đây phù hợp nhất đôi với khớp giữa thân của các đốt sống?",
+    "A": "A. Khớp động",
+    "B": "B. Khớp xoay",
+    "C": "C. Khớp sụn sợi",
+    "D": "D. Khớp sợi"
+  },
+  {
+    "Question": "50. Chọn lựa nào sau đây phù hợp nhật đối với khớp giữa xương trụ và xương cảnh tay?",
+    "A": "A. Khớp xoay",
+    "B": "B. Khớp sụn sợi",
+    "C": "C. Khớp bản lề",
+    "D": "D. Khớp lôi cầu"
+  },
+  {
+    "Question": "51. Nơi nào sau đây là vị trí có nhiêu cơ trơn?",
+    "A": "A. Thành bụng",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  {
+    "Question": "52. Cơ ở vùng nào sau đây thường được chỉ phôi bởi nhiều dây thần kinh?",
+    "A": "A. Cơ ở mặt",
+    "B": "B. Cơ chi trên",
+    "C": "C. Cơ chi dưới",
+    "D": "D. Cơ thành bụng"
+  },
+  {
+    "Question": "53. Mạc treo gân có bản chất là gì?",
+    "A": "A. Mạc sâu",
+    "B": "B. Mạc nông",
+    "C": "C. Bao sợi của gân",
+    "D": "D. Bao hoạt dịch của gân"
+  },
+  {
+    "Question": "56. Cơ nào sau đây được đặt tên dựa theo hình dạng và chức năng?",
+    "A": "A. Cơ nhị đầu cánh tay",
+    "B": "B. Cơ răng sau trên",
+    "C": "C. Cơ duỗi ngón trỏ ˆ",
+    "D": "D. Cơ gấp ngón cái ngăn"
+  },
+  {
+    "Question": "57. Dựa vào sự phân bô mạch máu, cơ vân xếp thành mẫy dạng?",
+    "A": "A. 3 dạng",
+    "B": "B. 4dạng —",
+    "C": "C. 5 dạng",
+    "D": "D. ódạng"
+  },
+  {
+    "Question": "60. Cấu trúc nào sau đây nằm giữa cơ và lớp mỡ dưới da",
+    "A": "A. Mạc nông",
+    "B": "B. Mạc sâu",
+    "C": "C. Vách gian cơ",
+    "D": "D. Mạc bọc cơ"
+  },
+  {
+    "Question": "61. Một vết thương gây rách da và cơ, câu trúc còn nguyên vẹn nếu có sẽ là",
+    "A": "A. Mạc nông",
+    "B": "B. Mỡ dưới da",
+    "C": "C. Vách gian cơ",
+    "D": "D. Mạc bọc cơ"
+  },
+  {
+    "Question": "62. Sự khác biệt giữa thành động mạch và thành tĩnh mạch chủ yêu là",
+    "A": "A. Câu trúc của lớp ngoài",
+    "B": "B. Câu trúc của lớp giữa",
+    "C": "C. Câu trúc của lớp trong",
+    "D": "D. Câu trúc của lớp ngoài và lớp trong"
+  },
+  {
+    "Question": "63. Lớp mô liên kết hiện diện ở lớp nào của động mạch?",
+    "A": "A. Lớp ngoải",
+    "B": "B. Lớp giữa",
+    "C": "C. Lớp trong",
+    "D": "D. Lớp ngoài và lớp trong"
+  },
+  {
+    "Question": "64. Lớp cơ trơn hiện diện ở lớp nào của động mạch?",
+    "A": "A. Lớp ngoài",
+    "B": "B. Lớp giữa",
+    "C": "C. Lớp trong",
+    "D": "D. Lớp ngoài và lớp trong"
+  },
+  {
+    "Question": "65. Khi ở tư thế đứng, yêu tô nào sau đây giúp máu tĩnh mạch từ chi dưới đổ về",
+    "A": "A. Trương lực cơ chi dưới",
+    "B": "B. Trọng lực của cơ thê",
+    "C": "C. Sức hút của tim",
+    "D": "D. Áp lực âm của ỗ bụng"
+  },
+  {
+    "Question": "66. Khi lây máu xét nghiệm, nơi nào sau đây có nông độ CO; trong máu thấp nhất?",
+    "A": "A. Tĩnh mạch",
+    "B": "B. Tiêu nh mạch",
+    "C": "C. Mao mạch",
+    "D": "D. Mạch bạch huyết"
+  },
+  {
+    "Question": "67. Cơ quan nào sau đây chứa mao mạch dạng xoang, có các hô chứa máu?",
+    "A": "A. Ruột",
+    "B": "B. Tim",
+    "C": "",
+    "D": "D. Gan"
+  },
+  {
+    "Question": "68. Mạch nào sau đây đồ vào giường mao mạch?",
+    "A": "A. Động mạch đàn hôi",
+    "B": "B. Động mạch vào cơ quan",
+    "C": "C. Tiểu động mạch nhỏ nhật",
+    "D": "D. Tiểu tĩnh mạch nhỏ nhất"
+  },
+  {
+    "Question": "69. Mao mạch dạng xuyên thấu được tìm thây nhiêu nhất ở",
+    "A": "A. Cơ",
+    "B": "B. Gan",
+    "C": "C. Ruột non",
+    "D": "D. Dạ dây"
+  },
+  {
+    "Question": "70. Tiêu động mạch được hình thành là do",
+    "A": "A. Các động mạch hợp nhất lại",
+    "B": "B. Các mao mạch hợp nhất lại",
+    "C": "C. Các tĩnh mạch hợp nhất lại",
+    "D": "D. Các động mạch phân chia nhỏ ra"
+  },
+  {
+    "Question": "71. Shunt động mạch tôn tại ở vị trí nào sau đây?",
+    "A": "A. Mao mạch gan",
+    "B": "B. Mao mạch lách",
+    "C": "C. Mao mạch ruột",
+    "D": "D. Mao mạch câu thận"
+  },
+  {
+    "Question": "72. Khi bị viêm, nhiễm trùng tại mô, cơ thể sẽ đáp ứng băng cách",
+    "A": "A. Tiêu câu tập trung ở mao mạch",
+    "B": "B. Tiểu câu tập trung ở tiêu tĩnh mạch",
+    "C": "C. Bạch câu tập trung ở tiêu tĩnh mạch",
+    "D": "D. Bạch câu tập trung ở tiêu động mạch"
+  },
+  {
+    "Question": "73. Một cầu trúc có bản chất là mô liên kết đặc, tô chức sợi sắp xếp theo từn: lớp chạy theo các hướng khác nhau, đỏ là",
+    "A": "A. Mạc nông",
+    "B": "",
+    "C": "C. Mạc sâu",
+    "D": "D. Tô chức dưới da"
+  },
+  {
+    "Question": "14. Lớp biểu mô lót mặt trong của Ông tiêu hóa, đường hô hấp được gọi là",
+    "A": "A. Lớp niêm mạc",
+    "B": "B. Lớp thanh mạc",
+    "C": "C. Lớp dưới thanh mạc",
+    "D": "D. Lớp bao xơ"
+  },
+  {
+    "Question": "75. Nam thanh niên 21 tuôi có một vết rách ở một dải xơ bao quanh cơ cánh tay phải. Cầu trúc nào sau đây bị tôn thương trong trường hợp này?",
+    "A": "A. Mạc",
+    "B": "B. Bao gần",
+    "C": "C. Cân mạc",
+    "D": ""
+  },
+  {
+    "Question": "77. Niêm mạc có đặc điểm sau đây, ngoại trừ",
+    "A": "A. Không lót các đường thông với bên ngoài",
+    "B": "B. Ngăn cản các tác nhân gây bệnh",
+    "C": "C. Thực hiện chức năng hấp thu",
+    "D": "D. Có chức năng bài tiết"
+  },
+  {
+    "Question": "78. Cầu mô liên kết lỏng lẻo của niêm mạc, nối biểu mô với các cấu trúc bên dưới, nâng đỡ các mạch máu và thân kinh được gọi là:",
+    "A": "A. Lớp riêng",
+    "B": "B. Lá riêng",
+    "C": "C. Cơ riêng",
+    "D": "D. Mạc riêng"
+  },
+  {
+    "Question": "80. Mạc nối lớn không có đặc điểm nào sau đây?",
+    "A": "A. Dự trữ năng lượng",
+    "B": "B. Cách nhiệt",
+    "C": "C. Bảo vệ",
+    "D": "D. Có thể bị xoăn"
+  },
+  {
+    "Question": "81. Mặt ngoài của dạ dày được bao bọc bởi",
+    "A": "A. Niêm mạc",
+    "B": "B. Thanh mạc",
+    "C": "C. Phúc mạc thành",
+    "D": "D. Lá riêng"
+  },
+  {
+    "Question": "82. Bên trong đường hô hập được lót bởi",
+    "A": "A. Thanh mạc",
+    "B": "B. Trung bi",
+    "C": "C. Niêm mạc",
+    "D": "D. Nội bì"
+  },
+  {
+    "Question": "86. Điêu nào sau đây không đúng với thượng bì?",
+    "A": "A. Có thân kinh chỉ phôi",
+    "B": "B. Có nhiêu mạch máu",
+    "C": "C. Lót ở hâu hết ông tiêu hóa",
+    "D": "D. Có thê biệt hóa thành thượng bì tuyến"
+  },
+  {
+    "Question": "87. Câu trúc nào sau đây thuộc mô liên kết?",
+    "A": "A. Mô lỏng lẻo",
+    "B": "B. Mõ mỡ",
+    "C": "C. Mô lưới",
+    "D": "D. Cả ba loại trên"
+  },
+  {
+    "Question": "88. Màng thanh mạc nảo sau đây không có lớp thượng bì",
+    "A": "A. Màng phôi",
+    "B": "B. Màng tim",
+    "C": "C. Phúc mạc",
+    "D": "D. Màng hoạt mạc"
+  },
+  {
+    "Question": "89. Mô bạch huyết liên kết niêm mạc (MALT) của ông tiêu hóa liên kết với",
+    "A": "A. Lớp niềm mạc",
+    "B": "B. Lá riêng của niêm mạc",
+    "C": "C. Lớp dưới niêm mạc",
+    "D": "D. Lớp thanh mạc"
+  },
+  {
+    "Question": "00. Lớp mô tìm thây ở bê mặt một cơ quan là",
+    "A": "A. Biêu mô",
+    "B": "B. Mô liên kêt",
+    "C": "",
+    "D": ""
+  },
+  {
+    "Question": "91. Mô làm dạ dày co thắt đề tiêu hóa thức ăn là",
+    "A": "A. Mô biêu mô",
+    "B": "B. Mô liên kết",
+    "C": "C. Mô cơ",
+    "D": "D. Mô thân kinh"
+  },
+  {
+    "Question": "92. Mô có chức năng nâng đỡ hoặc vận chuyên trong cơ thể là",
+    "A": "A. Mô biêu mô",
+    "B": "B. Mô liên kêt",
+    "C": "C. Mô cơ",
+    "D": "D. Mô thân kinh"
+  },
+  {
+    "Question": "93. Hai hệ cơ quan điều tiết chức năng của cơ thê băng xung động thần kinh và kích thích tô (hormone) là:",
+    "A": "A. Hệ xương và hệ cơ",
+    "B": "B. Hệ tiêu hóa và hệ tiết niệu",
+    "C": "C. Hệ thần kinh và hệ nội tiết",
+    "D": "D. Hệ tuân hoàn và hệ tiệt niệu"
+  },
+  {
+    "Question": "94. Hai hệ cơ quan bảo vệ cơ thê chồng tác nhân gây bệnh là",
+    "A": "A. Da và hệ bạch huyết",
+    "B": "B. Hệ xương và hệ tuân hoàn",
+    "C": "C. Hệ tiêu hóa và hệ tiết niệu",
+    "D": "D. Hệ cơ và hệ nội tiệt"
+  },
+  {
+    "Question": "95. Cấu trúc nào sau đây không phải là tô chức cơ quan?",
+    "A": "A. Động mạch",
+    "B": "B. Gan",
+    "C": "C. Máu",
+    "D": "D. Thận"
+  },
+  {
+    "Question": "96. Tuyến nào sau đây là tuyên ngoại tiết?",
+    "A": "A. Tuyên nước bọt",
+    "B": "B. Tuyên giáp",
+    "C": "",
+    "D": ""
+  },
+  {
+    "Question": "97. Loại biểu mô bề mặt có thê thay đồi hình dạng từ tròn đến dẹt là",
+    "A": "A. Biểu mô vuông",
+    "B": "B. Biểu mô trụ",
+    "C": "C. Biểu mô lát tâng",
+    "D": "D. Biểu mô chuyên tiếp"
+  },
+  {
+    "Question": "08. Loại cơ vận động tự ý là",
+    "A": "A. Cơ tin",
+    "B": "B. Cơ trơn",
+    "C": "C. Cơ nội tạng",
+    "D": "D. Cơ vân"
+  },
+  {
+    "Question": "100. Lớp mô vững chắc tạo nên gân và dây chăng là",
+    "A": "A. Mô cơ vần",
+    "B": "B. Mô liên kết xơ",
+    "C": "C. Mô xương",
+    "D": "D. Mô liên kết chun"
+  },
+  {
+    "Question": "101. Cơ tạo ra nhu động ruột là",
+    "A": "A. Cơ bâm xương",
+    "B": "B. Cơ vận động tự ý",
+    "C": "C. Cơ vân",
+    "D": "D. Cơ trơn"
+  },
+  {
+    "Question": "102. Câu nào nào sau sai khi nói vê tuyên?",
+    "A": "A. Tuyên nội tiệt không có ông tuyến",
+    "B": "B. Chất tiết của tuyên nội tiết là kích thích tố (hormone)",
+    "C": "C. Kích thích tố của tuyến nội tiết đi vào mao mạch",
+    "D": "D. Tuyến giáp là một tuyên ngoại tiết"
+  }
+]
