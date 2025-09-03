@@ -52,19 +52,19 @@
     "Question": "8. Động tác nào sau đây đưa một chỉ ra xa đường giữa cơ thê?",
     "A": "A. Sắp",
     "B": "B. Ngửa",
-    "C": "",
-    "D": ""
+    "C": "C. Dạng",
+    "D": "D. Khép"
   },
   {
     "Question": "9. Người đưa ra quan điểm học Giải phẫu cân phải mô xác người là ai2",
     "A": "A. Hippocrates",
     "B": "B. Andreas Vesalius",
     "C": "C. Henry Gray",
-    "D": ""
+    "D": "D. Frank Netter"
   },
   {
     "Question": "10. Trong một bài Giải phẫu, người ta mô tả các lớp cơ từ nông vào sâu và rmnÔ tả mạch máu, thân kinh đi trong các lớp cơ này. Đây là cách mô tả của?",
-    "A": "A.. Giải phẫu học hệ thông",
+    "A": "A. Giải phẫu học hệ thông",
     "B": "B. Giải phẫu học định khu",
     "C": "C. Giải phẫu học cắt ngang",
     "D": "D. Giải phẫu học lâm sàng"
@@ -231,18 +231,53 @@
     "D": "D. Giữa đầu xương và thân xương"
   },
   {
-    "Question": "36. Sụn khớp là loại sụn nào? À. Nụn trone B. Sun chun C. Sụn xơ D. Sụn tiếp hợp 37. Ở người trường thành, thành phần chủ yếu của tủy sương trong ông tùy là gì?",
+    "Question": "34, Ñẹo sụn tiếp hợp hình thành do",
+    "A": "A. Ñự liền chỗ gầy ò đầu xương",
+    "B": "B. Sự liên chề gầy ở sụn khỏp",
+    "C": "C. Sự hỏa xương cùa sụn tiên hợp",
+    "D": "D. Ñự hóa xương của sụn khỏp"
+  },
+  {
+    "Question": "3&, Seo sụn tiếp hợp xuất hiện thời điểm nào?",
+    "A": "A. Nau gầy xương đã lành",
+    "B": "B. Sau bong sụn khớp đà lành",
+    "C": "C. Khi đến tuổi đậy thì",
+    "D": "D. Khi đến tuôi trường thành"
+  },
+  {
+    "Question": "36. Sụn khớp là loại sụn nào?",
+    "A": "A. Nụn trone",
+    "B": "B. Sun chun",
+    "C": "C. Sụn xơ",
+    "D": "D. Sụn tiếp hợp"
+  },
+  {
+    "Question": "37. Ở người trường thành, thành phần chủ yếu của tủy sương trong ông tùy là gì?",
     "A": "A. Tế bào máu",
     "B": "B. Chất khoảng",
     "C": "C. Mỡ",
     "D": "D. TẾ bào tạo xương"
   },
   {
-    "Question": "38. Đặc tỉnh nào sau đây không đủng với màng xương ngoài của xương đài? À. Phủ hầu hết trên bề mặt xương B. Không có mạch máu C. Có chức năng giúp xương gầy mau lành D. Còn là nơi bám của gân cơ, đây chẳng 39, Hiện tượng nào sau đây xảy ra trước nhẤt trong quả trình liền xương?",
+    "Question": "38. Đặc tỉnh nào sau đây không đủng với màng xương ngoài của xương đài?",
+    "A": "A. Phủ hầu hết trên bề mặt xương",
+    "B": "B. Không có mạch máu",
+    "C": "C. Có chức năng giúp xương gầy mau lành",
+    "D": "D. Còn là nơi bám của gân cơ, đây chẳng"
+  },
+  {
+    "Question": "39, Hiện tượng nào sau đây xảy ra trước nhẤt trong quả trình liền xương?",
     "A": "A. Hình thành các bè xương xếp",
     "B": "B. Hình thành các sợi collagen",
     "C": "C. Chảy máu và hình thành khối máu tụ",
     "D": "D. Hấp thụ các tế bào chết vùng xương gầy"
+  },
+  {
+    "Question": "4í. Phần ngoài của vỏ xương được cập máu bởi động mạch nào?",
+    "A": "A. Động mạch màng Xương ngoài",
+    "B": "B. Động mạch nuôi xương",
+    "C": "C. Động mạch hành xương",
+    "D": "D. Động mạch đầu xương"
   },
   {
     "Question": "41. Sụn tiêp hợp là lớp sụn là lớp sụn trong năm ở đâu?",
@@ -291,14 +326,14 @@
     "A": "A. Khớp động",
     "B": "B. Khớp xoay",
     "C": "C. Khớp sụn SỢI",
-    "D": ""
+    "D": "D. Khớp sợi"
   },
   {
     "Question": "48. Chọn lựa nào sau đây phù hợp nhất đối với khớp chày mác đưới?",
     "A": "A. Khớp bất động",
     "B": "B. Khớp xoay",
     "C": "C. Khớp sụn",
-    "D": "D.. Khớp dạng dây chẳng"
+    "D": "D. Khớp dạng dây chẳng"
   },
   {
     "Question": "49. Chọn lựa nào sau đây phù hợp nhất đôi với khớp giữa thân của các đốt sống?",
@@ -317,9 +352,9 @@
   {
     "Question": "51. Nơi nào sau đây là vị trí có nhiêu cơ trơn?",
     "A": "A. Thành bụng",
-    "B": "",
-    "C": "",
-    "D": ""
+    "B": "B. Gan tay",
+    "C": "C. Ông tiêu hóa",
+    "D": "D. Môi và lưỡi"
   },
   {
     "Question": "52. Cơ ở vùng nào sau đây thường được chỉ phôi bởi nhiều dây thần kinh?",
@@ -336,6 +371,20 @@
     "D": "D. Bao hoạt dịch của gân"
   },
   {
+    "Question": "s4. Vách gian cơ là một câu trúc thuộc?",
+    "A": "A. Mạc nông",
+    "B": "B. Mạc bọc cơ",
+    "C": "C. Mạc sâu",
+    "D": "D. Mạc hoạt dịch"
+  },
+  {
+    "Question": "55, Tên gỌI cơ răng trước dựa vào đâu?",
+    "A": "A. VỊ trí của cơ",
+    "B": "B. Chức năng của cơ",
+    "C": "C. Hinh dạng của cơ",
+    "D": "D. Hình dạng và vị trí"
+  },
+  {
     "Question": "56. Cơ nào sau đây được đặt tên dựa theo hình dạng và chức năng?",
     "A": "A. Cơ nhị đầu cánh tay",
     "B": "B. Cơ răng sau trên",
@@ -348,6 +397,20 @@
     "B": "B. 4dạng —",
     "C": "C. 5 dạng",
     "D": "D. ódạng"
+  },
+  {
+    "Question": "s8. Thông thường, bó mạch thân kinh cho cơ gồm những thành phần nào?",
+    "A": "A. 1 động mạch, 1 tĩnh mạch, 2 thân kinh",
+    "B": "B. 1 động mạch, 2 tĩnh mạch, l thân kinh",
+    "C": "C. 2 động mạch, 1 tĩnh mạch, 2 thân kinh",
+    "D": "D. 2 động mạch, 2 tĩnh mạch, 1 thân kinh"
+  },
+  {
+    "Question": "s9, Sự phân bô thân kinh cho cơ phụ thuộc vào",
+    "A": "A. VỊ trí của cơ",
+    "B": "B. Hình dạng của cơ",
+    "C": "C. Chức năng của cơ",
+    "D": "D. Câu trúc của cơ"
   },
   {
     "Question": "60. Cấu trúc nào sau đây nằm giữa cơ và lớp mỡ dưới da",
@@ -385,7 +448,7 @@
     "D": "D. Lớp ngoài và lớp trong"
   },
   {
-    "Question": "65. Khi ở tư thế đứng, yêu tô nào sau đây giúp máu tĩnh mạch từ chi dưới đổ về",
+    "Question": "65. Khi ở tư thế đứng, yêu tô nào sau đây giúp máu tĩnh mạch từ chi dưới đổ về tim2",
     "A": "A. Trương lực cơ chi dưới",
     "B": "B. Trọng lực của cơ thê",
     "C": "C. Sức hút của tim",
@@ -402,7 +465,7 @@
     "Question": "67. Cơ quan nào sau đây chứa mao mạch dạng xoang, có các hô chứa máu?",
     "A": "A. Ruột",
     "B": "B. Tim",
-    "C": "",
+    "C": "C. Não",
     "D": "D. Gan"
   },
   {
@@ -443,7 +506,7 @@
   {
     "Question": "73. Một cầu trúc có bản chất là mô liên kết đặc, tô chức sợi sắp xếp theo từn: lớp chạy theo các hướng khác nhau, đỏ là",
     "A": "A. Mạc nông",
-    "B": "",
+    "B": "B. BHao",
     "C": "C. Mạc sâu",
     "D": "D. Tô chức dưới da"
   },
@@ -476,6 +539,13 @@
     "D": "D. Mạc riêng"
   },
   {
+    "Question": "79, Bệnh nhân nam được chân đoán bướu phôi phải, trên phim chụp cắt lớp của ngực, hình ảnh khối bướu nằm ở",
+    "A": "A. Bên trên",
+    "B": "B. Bên dưới",
+    "C": "C. Bên phải",
+    "D": "D. Bên trái"
+  },
+  {
     "Question": "80. Mạc nối lớn không có đặc điểm nào sau đây?",
     "A": "A. Dự trữ năng lượng",
     "B": "B. Cách nhiệt",
@@ -495,6 +565,27 @@
     "B": "B. Trung bi",
     "C": "C. Niêm mạc",
     "D": "D. Nội bì"
+  },
+  {
+    "Question": "83. Màng nảo sau đây không là màng thanh mạc?",
+    "A": "A. Phúc mạc thành",
+    "B": "B. Màng ngoài tim",
+    "C": "C. Màng trong tim",
+    "D": "D. Màng phôi thành"
+  },
+  {
+    "Question": "84. Mạc phát triên từ",
+    "A": "A. Trung mô",
+    "B": "B. Ngoại mô",
+    "C": "C. Nội mô",
+    "D": "D. Các khoang cơ thê"
+  },
+  {
+    "Question": "85. Các mô liên kêt phát triển từ",
+    "A": "A. Ngoại bi",
+    "B": "B. Trung bi",
+    "C": "C. Nội bi",
+    "D": "D. Ngoại bì và trung bì"
   },
   {
     "Question": "86. Điêu nào sau đây không đúng với thượng bì?",
@@ -528,8 +619,8 @@
     "Question": "00. Lớp mô tìm thây ở bê mặt một cơ quan là",
     "A": "A. Biêu mô",
     "B": "B. Mô liên kêt",
-    "C": "",
-    "D": ""
+    "C": "C. Mô cơ",
+    "D": "D. Mô thân kinh"
   },
   {
     "Question": "91. Mô làm dạ dày co thắt đề tiêu hóa thức ăn là",
@@ -586,6 +677,13 @@
     "B": "B. Cơ trơn",
     "C": "C. Cơ nội tạng",
     "D": "D. Cơ vân"
+  },
+  {
+    "Question": "09, Màng thanh mạc bao bọc xoang ngực là",
+    "A": "A. Màng phỗi tạng",
+    "B": "B. Phúc mạc",
+    "C": "C. Màng phôi thành",
+    "D": "D. Mạc treo"
   },
   {
     "Question": "100. Lớp mô vững chắc tạo nên gân và dây chăng là",

@@ -6,11 +6,12 @@ import pytesseract
 import json
 from pprint import pprint
 import re
+from image_processing import ImageProcessing, NormalizeText
 
 config = "--oem 1 --psm 7 -l vie"
 
 data = []
-pdf_path = "Module GPDC-2.pdf"
+pdf_path = "./input/Module GPDC-2.pdf"
 pages = convert_from_path(pdf_path)
 
 
@@ -20,11 +21,13 @@ for i, page in enumerate(pages):
     if i == 0:
         header_height = 300
         footer_height = 300
+        left_width = 150
     else:
         header_height = 175
         footer_height = 250
+        left_width = 150
 
-    page = page[header_height:-footer_height, :, :]
+    page = page[header_height:-footer_height, left_width:, :]
 
     # Grey formatting
     gray = cv2.cvtColor(page, cv2.COLOR_BGR2GRAY)
@@ -39,12 +42,18 @@ for i, page in enumerate(pages):
     blocks = []
     for c in contours:
         x, y, w, h = cv2.boundingRect(c)
-        if h > 29 and w > 60:
+        if h > 28 and w > 60:
             roi = page[y : y + h, x : x + w]
             blocks.append((y, roi))
 
     # Sort the content following the y coordinates
     blocks = sorted(blocks, key=lambda b: b[0])
+
+    # Preprocess the text
+    for _, roi in blocks:
+        roi = ImageProcessing.to_grayscale(roi)
+        roi = ImageProcessing.rescale(roi)
+        roi = ImageProcessing.denoise(roi)
 
     # Extract text
     for _, roi in blocks:
@@ -54,6 +63,17 @@ for i, page in enumerate(pages):
         text = text.replace("ŒC.", "C.")
         text = text.replace("Œ.", "C.")
         text = text.replace("Á.", "A.")
+        text = text.replace("À.", "A.")
+        text = text.replace("lR,", "B.")
+        text = text.replace("€.", "C.")
+        text = text.replace("Ù.", "D.")
+        text = text.replace("€C.", "C.")
+        text = text.replace("_ _D.", "D.")
+        text = text.replace("B,", "B.")
+        text = text.replace("AÀ.", "A.")
+        text = text.replace("R,", "B.")
+        text = text.replace("AA.", "A.")
+
         data.append(text)
 
 
@@ -67,7 +87,7 @@ i = 0
 while i < len(data):
     line = data[i].strip()
 
-    if re.match(r"^\d+\.", line):
+    if re.match(r"^(\d+[^\s]*[.,]|[a-z]\d+[^\s]*[.,])", line):
         question_lines = [line]
         i += 1
 
@@ -78,22 +98,23 @@ while i < len(data):
 
         question_text = " ".join(question_lines)
 
-        # Lấy 4 đáp án
         options = {}
-        for opt in ["A.", "B.", "C.", "D."]:
-            if i < len(data) and data[i].strip().startswith(opt):
-                options[opt[0]] = data[i].strip()
-                i += 1
+        for opt in ["A", "B", "C", "D"]:
+            if i < len(data):
+                normalized = NormalizeText.normalize_option(data[i])
+                if normalized.startswith(opt + "."):
+                    options[opt] = normalized
+                    i += 1
+                else:
+                    options[opt] = ""
             else:
-                options[opt[0]] = ""  # phòng trường hợp thiếu đáp án
+                options[opt] = ""
 
-        # Lưu vào list
         questions.append({"Question": question_text, **options})
     else:
-        i += 1  # bỏ qua dòng không phải câu hỏi
+        i += 1
 
-# Xuất ra file JSON
-with open("questions.json", "w", encoding="utf-8") as f:
+with open("./output/questions.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, ensure_ascii=False, indent=2)
 
 print("✅ Saved to questions.json")
